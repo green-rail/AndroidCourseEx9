@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCourseEx9</string>
+    <string name="main_title">Exercise 9: RecyclerView and API</string>
+</resources>
